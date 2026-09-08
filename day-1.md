@@ -24,6 +24,12 @@ public class Hello {
 }
 ```
 
+### A picture to end on
+
+Using HTML lets me control the size, which plain Markdown image syntax can't do:
+
+<img src="https://octodex.github.com/images/original.png" alt="Mona the Octocat, the GitHub mascot" width="200">
+
 ## Review
 
 Writing things down in a structured way made it much easier to see what I
